@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">Привет, меня зовут Дмитрий, я начинающий Frontend-разработчик 👨‍💻</div>  
   
@@ -18,8 +14,8 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## Мои навыки  
+<table><tr><td valign="top">
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -55,7 +51,7 @@
 <br/>  
 
 
-## Connect with me  
+## Можно связаться со мной и посмотреть мои работы  
 <div align="center">
 <a href="https://github.com/https://github.com/Dmitri-web-lab/Dmitri_Dvornikov" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
